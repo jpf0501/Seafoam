@@ -9,5 +9,5 @@ Based on [Ascent](https://gitlab.com/mWalrus/ascent).
 
 ## Installing
 1. `git clone https://github.com/justinefer/breeze.git`
-2. `ln -s $PWD/breeze $HOME/.config/leftwm/themes/current`
+2. `ln -s $PWD/Breeze $HOME/.config/leftwm/themes/current`
 3. Reload LeftWM (Modkey+Shift+R for default)
