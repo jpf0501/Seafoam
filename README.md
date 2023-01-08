@@ -1,4 +1,4 @@
-# Breeze
+# Seafoam
 A LeftWM theme using the Nord color scheme.
 Based on [Ascent](https://gitlab.com/mWalrus/ascent).
 
